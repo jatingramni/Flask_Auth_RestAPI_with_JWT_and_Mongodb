@@ -1,12 +1,10 @@
 [
     {
-        "_id": "5feda4c4f41ca829e5a755ba",
         "email": "jatin@yopmail.com",
         "password": "123456",
         "username": "jatin"
     },
     {
-        "_id": "5fedab0ad4b1c177e6a939c8",
         "email": "rahul@yopmail.com",
         "password": "123456",
         "username": "rahul"
